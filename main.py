@@ -13,7 +13,7 @@ import os
 import sys
 
 LINE = (
-    "I saw the twist coming and panicked, so I killed the Wi-Fi "
+    "I saw the twist coming and panicked — so I killed the Wi-Fi "
     "and took the ending down with me. You're welcome."
 )
 
